@@ -32,7 +32,8 @@
 
 ## 🔹 GitHub Stats  
 ![Aravind's GitHub stats](https://github-readme-stats.vercel.app/api?username=aravind-200431&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aravind-200431&layout=compact&theme=tokyonight)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aravind-200431&layout=compact&theme=tokyonight&langs_count=6&hide=javascript,html,css) 
 
 ---
 
